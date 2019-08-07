@@ -183,3 +183,23 @@
 |178|[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)|A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the labels text does not…|2.9k
 |179|[swift-2048](https://github.com/austinzheng/swift-2048)|2048 for Swift|2.8k
 |180|[Then](https://github.com/devxoul/Then)|✨ Super sweet syntactic sugar for Swift initializers|2.8k
+|181|[spruce-ios](https://github.com/willowtreeapps/spruce-ios)|Swift library for choreographing animations on the screen.|2.8k
+|182|[Locksmith](https://github.com/matthewpalmer/Locksmith)|A powerful, protocol-oriented library for working with the keychain in Swift.|2.8k
+|183|[CotEditor](https://github.com/coteditor/CotEditor)|Lightweight Plain-Text Editor for macOS|2.8k
+|184|[Stevia](https://github.com/freshOS/Stevia)|🍃 Healthy Autolayout Sugar|2.8k
+|185|[Stellar](https://github.com/AugustRush/Stellar)|A fantastic Physical animation library for swift|2.8k
+|186|[EasyAnimation](https://github.com/icanzilb/EasyAnimation)|A Swift library to take the power of UIView.animateWithDuration(_:, animations:...) to a whole new level - layers, sp…|2.8k
+|187|[paper-onboarding](https://github.com/Ramotion/paper-onboarding)|PaperOnboarding is a material design UI slider. Swift UI library by @Ramotion - https://github.com/Ramotion/swift-…|2.8k
+|188|[FaceAware](https://github.com/BeauNouvelle/FaceAware)|An extension that gives UIImageView the ability to focus on faces within an image.|2.8k
+|189|[GuillotineMenu](https://github.com/Yalantis/GuillotineMenu)|Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.|2.8k
+|190|[Brooklyn](https://github.com/pedrommcarrasco/Brooklyn)|🍎 Screensaver inspired by Apples Event on October 30, 2018|2.7k
+|191|[EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions)|😏 How Swift standard types and classes were supposed to work.|2.7k
+|192|[swifter](https://github.com/httpswift/swifter)|Tiny http server engine written in Swift programming language.|2.7k
+|193|[WordPress-iOS](https://github.com/wordpress-mobile/WordPress-iOS)|WordPress for iOS - Official repository|2.7k
+|194|[HackingWithSwift](https://github.com/twostraws/HackingWithSwift)|The project source code for hackingwithswift.com|2.7k
+|195|[netfox](https://github.com/kasketis/netfox)|A lightweight, one line setup, iOS / OSX network debugging library! 🦊|2.7k
+|196|[paper-switch](https://github.com/Ramotion/paper-switch)|🎚 RAMPaperSwitch is a Swift material design UI module which paints over the parent view when the switch is turned …|2.7k
+|197|[wire-ios](https://github.com/wireapp/wire-ios)|📱 Wire for iOS (iPhone and iPad)|2.7k
+|198|[Gemini](https://github.com/shoheiyokoyama/Gemini)|Gemini is rich scroll based animation framework for iOS, written in Swift.|2.7k
+|199|[DeviceKit](https://github.com/devicekit/DeviceKit)|DeviceKit is a value-type replacement of UIDevice.|2.7k
+|200|[iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day)|Selection of projects accompanying the iOS8-Day-by-Day blog series http://www.shinobicontrols.com/iOS8DayByDay|2.7k
