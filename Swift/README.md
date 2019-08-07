@@ -93,3 +93,93 @@
 |88|[Async](https://github.com/duemunk/Async)|Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch|4.4k
 |89|[Koloda](https://github.com/Yalantis/Koloda)|KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.|4.4k
 |90|[SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)|Convenient & secure logging during development & release in Swift 3, 4 & 5|4.4k
+|91|[BulletinBoard](https://github.com/alexaubry/BulletinBoard)|General-purpose contextual cards for iOS|4.3k
+|92|[Advance](https://github.com/timdonnelly/Advance)|Physics-based animations for iOS, tvOS, and macOS.|4.3k
+|93|[vimr](https://github.com/qvacua/vimr)|VimR — Neovim GUI for macOS|4.2k
+|94|[SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit)|Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ ⛺|4.2k
+|95|[GPUImage2](https://github.com/BradLarson/GPUImage2)|GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.|4.2k
+|96|[ImagePicker](https://github.com/hyperoslo/ImagePicker)|📷 Reinventing the way ImagePicker works.|4.2k
+|97|[alerts-and-pickers](https://github.com/dillidon/alerts-and-pickers)|Advanced usage of UIAlertController and pickers based on it: Telegram, Contacts, Location, PhotoLibrary, Country, Pho…|4.1k
+|98|[JSONExport](https://github.com/Ahmed-Ali/JSONExport)|JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their…|4k
+|99|[Instructions](https://github.com/ephread/Instructions)|Create walkthroughs and guided tours (coach marks) in a simple way, with Swift.|4k
+|100|[Dollar](https://github.com/ankurp/Dollar)|A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript|4k
+|101|[VPNOn](https://github.com/lexrus/VPNOn)|Turn On your VPN like a hero.|3.9k
+|102|[SwiftOCR](https://github.com/garnele007/SwiftOCR)|Fast and simple OCR library written in Swift|3.9k
+|103|[Bond](https://github.com/DeclarativeHub/Bond)|A Swift binding framework|3.9k
+|104|[Chatto](https://github.com/badoo/Chatto)|A lightweight framework to build chat applications, made in Swift|3.9k
+|105|[panelkit](https://github.com/louisdh/panelkit)|A UI framework that enables panels on iOS.|3.9k
+|106|[SideMenu](https://github.com/jonkykong/SideMenu)|Simple side/slide menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes…|3.8k
+|107|[SwiftEntryKit](https://github.com/huri000/SwiftEntryKit)|SwiftEntryKit is a presentation library for iOS. It can be used to easily display overlays within your iOS apps.|3.8k
+|108|[ESTabBarController](https://github.com/eggswift/ESTabBarController)|ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!|3.8k
+|109|[SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults)|Modern Swift API for NSUserDefaults|3.8k
+|110|[Nuke](https://github.com/kean/Nuke)|Powerful image loading and caching system|3.8k
+|111|[socket.io-client-swift](https://github.com/socketio/socket.io-client-swift)||3.8k
+|112|[iOS-Developer-Roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)|Roadmap to becoming an iOS developer in 2018.|3.7k
+|113|[Whisper](https://github.com/hyperoslo/Whisper)|📣 Whisper is a component that will make the task of display messages and in-app notifications simple. It has three d…|3.6k
+|114|[AnimatedCollectionViewLayout](https://github.com/KelvinJin/AnimatedCollectionViewLayout)|A UICollectionViewLayout subclass that adds custom transitions/animations to the UICollectionView without effecting y…|3.6k
+|115|[LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)|Material Design Floating Action Button in liquid state|3.6k
+|116|[iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler)|Code examples for the new features of iOS 9.|3.6k
+|117|[CollectionKit](https://github.com/SoySauceLab/CollectionKit)|Reimagining UICollectionView|3.6k
+|118|[Argo](https://github.com/thoughtbot/Argo)|Functional JSON parsing library for Swift|3.5k
+|119|[Cards](https://github.com/PaoloCuscela/Cards)|Awesome iOS 11 appstore cards in swift 5.|3.5k
+|120|[StarWars.iOS](https://github.com/Yalantis/StarWars.iOS)|This component implements transition animation to crumble view-controller into tiny pieces.|3.5k
+|121|[Swinject](https://github.com/Swinject/Swinject)|Dependency injection framework for Swift with iOS/macOS/Linux|3.4k
+|122|[BouncyLayout](https://github.com/roberthein/BouncyLayout)|Make. It. Bounce.|3.4k
+|123|[DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)|Elastic pull to refresh for iOS developed in Swift|3.4k
+|124|[clashX](https://github.com/yichengchen/clashX)|A rule based custom proxy with GUI for Mac base on clash.|3.4k
+|125|[Messenger](https://github.com/relatedcode/Messenger)|This is a native iOS Messenger app, with audio/video calls and realtime chat conversations (full offline support).|3.4k
+|126|[ExSwift](https://github.com/pNre/ExSwift)|A set of Swift extensions for standard types and classes.|3.4k
+|127|[GodEye](https://github.com/zixun/GodEye)|Automaticly display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swif…|3.4k
+|128|[Nimble](https://github.com/Quick/Nimble)|A Matcher Framework for Swift and Objective-C|3.4k
+|129|[iOS-10-Sampler](https://github.com/shu223/iOS-10-Sampler)|Code examples for new APIs of iOS 10.|3.4k
+|130|[SkyFloatingLabelTextField](https://github.com/Skyscanner/SkyFloatingLabelTextField)|A beautiful and flexible text field control implementation of "Float Label Pattern". Written in Swift.|3.4k
+|131|[Helium](https://github.com/JadenGeller/Helium)|A floating browser window for OS X|3.3k
+|132|[XCGLogger](https://github.com/DaveWoodCom/XCGLogger)|A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), ju…|3.3k
+|133|[AlamofireImage](https://github.com/Alamofire/AlamofireImage)|AlamofireImage is an image component library for Alamofire|3.3k
+|134|[iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples)|👨🏻‍💻 Examples of new iOS 11 APIs|3.3k
+|135|[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton)|Cute Animated Button written in Swift.|3.3k
+|136|[EFQRCode](https://github.com/EFPrefix/EFQRCode)|A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.|3.3k
+|137|[cleartext-mac](https://github.com/mortenjust/cleartext-mac)|A text editor that will help you write clearer and simpler|3.3k
+|138|[Swiftz](https://github.com/typelift/Swiftz)|Functional programming in Swift|3.3k
+|139|[macos-terminal-themes](https://github.com/lysyi3m/macos-terminal-themes)|Color schemes for default macOS Terminal.app|3.3k
+|140|[Valet](https://github.com/square/Valet)|Valet lets you securely store data in the iOS, tvOS, or macOS Keychain without knowing a thing about how the Keychain…|3.3k
+|141|[TSWeChat](https://github.com/hilen/TSWeChat)|A WeChat alternative. Written in Swift 5.|3.3k
+|142|[CVCalendar](https://github.com/CVCalendar/CVCalendar)|A custom visual calendar for iOS 8+ written in Swift (>= 4.0).|3.3k
+|143|[CocoaDebug](https://github.com/CocoaDebug/CocoaDebug)|🚀 iOS Debugging Tool|3.2k
+|144|[PKHUD](https://github.com/pkluz/PKHUD)|A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.|3.2k
+|145|[PopupDialog](https://github.com/Orderella/PopupDialog)|A simple, customizable popup dialog for iOS written in Swift. Replaces UIAlertController alert style.|3.2k
+|146|[SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)|iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.|3.2k
+|147|[MessageKit](https://github.com/MessageKit/MessageKit)|A community-driven replacement for JSQMessagesViewController|3.2k
+|148|[Persei](https://github.com/Yalantis/Persei)|Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift|3.2k
+|149|[TinyConstraints](https://github.com/roberthein/TinyConstraints)|Nothing but sugar.|3.2k
+|150|[Gifski](https://github.com/sindresorhus/Gifski)|🌈 Convert videos to high-quality GIFs on your Mac|3.2k
+|151|[SwiftFormat](https://github.com/nicklockwood/SwiftFormat)|A code library and command-line formatting tool for reformatting Swift code|3.2k
+|152|[RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)|A simple keyframe-based animation framework for iOS, written in Swift. Perfect for scrolling app intros.|3.2k
+|153|[Optimizing-Swift-Build-Times](https://github.com/fastred/Optimizing-Swift-Build-Times)|Collection of advice on optimizing compile times of Swift projects.|3.1k
+|154|[ioscreator](https://github.com/ioscreator/ioscreator)|Tutorials from ioscreator.com|3.1k
+|155|[MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI)|SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.|3.1k
+|156|[RNCryptor](https://github.com/RNCryptor/RNCryptor)|CCCryptor (AES encryption) wrappers for iOS and Mac in Swift. -- For ObjC, see RNCryptor/RNCryptor-objc|3.1k
+|157|[Clipy](https://github.com/Clipy/Clipy)|Clipboard extension app for macOS.|3.1k
+|158|[BuildTimeAnalyzer-for-Xcode](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode)|Build Time Analyzer for Swift|3.1k
+|159|[Bagel](https://github.com/yagiz/Bagel)|a little native network debugging tool for iOS|3.1k
+|160|[Siren](https://github.com/ArtSabintsev/Siren)|Notify users when a new version of your app is available and prompt them to upgrade.|3.1k
+|161|[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)|UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift|3.1k
+|162|[Pastel](https://github.com/cruisediary/Pastel)|🎨 Gradient animation effect like Instagram|3k
+|163|[circle-menu](https://github.com/Ramotion/circle-menu)|⭕️ CircleMenu is a simple, elegant UI menu with a circular layout and material design animations. Swift UI library…|3k
+|164|[SPPermission](https://github.com/ivanvorobei/SPPermission)|A unified API to ask for permissions on iOS. Available dialog UI.|3k
+|165|[LeetCode-Swift](https://github.com/soapyigu/LeetCode-Swift)|Solutions to LeetCode by Swift|3k
+|166|[SpechtLite](https://github.com/zhuhaow/SpechtLite)|A rule-based proxy for macOS|3k
+|167|[PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit)|A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Googles libphonenu…|3k
+|168|[NotificationBanner](https://github.com/Daltron/NotificationBanner)|The easiest way to display highly customizable in app notification banners in iOS|3k
+|169|[About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)|Gathering all info published, both by Apple and by others, about new framework SwiftUI.|3k
+|170|[XLActionController](https://github.com/xmartlabs/XLActionController)|Fully customizable and extensible action sheet controller written in Swift|3k
+|171|[BubbleTransition](https://github.com/andreamazz/BubbleTransition)|A custom modal transition that presents and dismiss a controller with an expanding bubble effect.|3k
+|172|[HandyJSON](https://github.com/alibaba/HandyJSON)|A handy swift json-object serialization/deserialization library|3k
+|173|[Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples)|精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32…|3k
+|174|[Awesome-Swift-Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)|A List of Awesome Swift Playgrounds|2.9k
+|175|[Hue](https://github.com/zenangst/Hue)|🎨 Hue is the all-in-one coloring utility that youll ever need.|2.9k
+|176|[LayoutKit](https://github.com/linkedin/LayoutKit)|LayoutKit is a fast view layout library for iOS, macOS, and tvOS.|2.9k
+|177|[Presentation](https://github.com/hyperoslo/Presentation)|📑 Presentation helps you to make tutorials, release notes and animated pages.|2.9k
+|178|[MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)|A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the labels text does not…|2.9k
+|179|[swift-2048](https://github.com/austinzheng/swift-2048)|2048 for Swift|2.8k
+|180|[Then](https://github.com/devxoul/Then)|✨ Super sweet syntactic sugar for Swift initializers|2.8k
