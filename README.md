@@ -203,3 +203,93 @@
 |198|[Gemini](https://github.com/shoheiyokoyama/Gemini)|Gemini is rich scroll based animation framework for iOS, written in Swift.|2.7k
 |199|[DeviceKit](https://github.com/devicekit/DeviceKit)|DeviceKit is a value-type replacement of UIDevice.|2.7k
 |200|[iOS8-day-by-day](https://github.com/shinobicontrols/iOS8-day-by-day)|Selection of projects accompanying the iOS8-Day-by-Day blog series http://www.shinobicontrols.com/iOS8DayByDay|2.7k
+|201|[touchbar_nyancat](https://github.com/avatsaev/touchbar_nyancat)|Stupid nyancat animation on your +$2k MacBook Pros Touchbar|2.6k
+|202|[UIImageColors](https://github.com/jathu/UIImageColors)|Fetches the most dominant and prominent colors from an image.|2.5k
+|203|[MaterialKit](https://github.com/nghialv/MaterialKit)|Material design components for iOS written in Swift|2.5k
+|204|[Peek](https://github.com/shaps80/Peek)|All new design. Inspect your iOS application at runtime.|2.5k
+|205|[AloeStackView](https://github.com/airbnb/AloeStackView)|A simple class for laying out a collection of views with a convenient API, while leveraging the power of Auto Layout.|2.5k
+|206|[Disk](https://github.com/saoudrizwan/Disk)|Delightful framework for iOS to easily persist structs, images, and data|2.5k
+|207|[SwiftLocation](https://github.com/malcommac/SwiftLocation)|Efficient and easy to use location tracking framework for iOS|2.5k
+|208|[XcodeGen](https://github.com/yonaskolb/XcodeGen)|A Swift command line tool for generating your Xcode project|2.5k
+|209|[ios_guides](https://github.com/codepath/ios_guides)|Comprehensive open-source iOS guides|2.5k
+|210|[BonMot](https://github.com/Rightpoint/BonMot)|Beautiful, easy attributed strings in Swift|2.5k
+|211|[droptogif](https://github.com/mortenjust/droptogif)|Zero-click animated Gifs|2.5k
+|212|[SwiftKotlin](https://github.com/angelolloqui/SwiftKotlin)|A tool to convert Swift code to Kotlin.|2.5k
+|213|[eidolon](https://github.com/artsy/eidolon)|The Artsy Auction Kiosk App.|2.5k
+|214|[AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper)|An Alamofire extension which converts JSON response data into swift objects using ObjectMapper|2.5k
+|215|[15DaysofAnimationsinSwift](https://github.com/larrynatalicio/15DaysofAnimationsinSwift)|A project to learn animations.|2.5k
+|216|[Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller)|play pokemon go safely or at unavailable area|2.5k
+|217|[NEKit](https://github.com/zhuhaow/NEKit)|A toolkit for Network Extension Framework|2.5k
+|218|[NMessenger](https://github.com/eBay/NMessenger)|A fast, lightweight messenger component built on AsyncDisplaykit and written in Swift|2.5k
+|219|[swift-ui-animation-components-and-libraries](https://github.com/Ramotion/swift-ui-animation-components-and-libraries)|Swift UI libraries, iOS components and animations by @Ramotion - https://github.com/Ramotion/android-ui-animation-com…|2.4k
+|220|[Result](https://github.com/antitypical/Result)|Swift type modelling the success/failure of arbitrary operations.|2.4k
+|221|[AMPopTip](https://github.com/andreamazz/AMPopTip)|An animated popover that pops out a given frame, great for subtle UI tips and onboarding.|2.4k
+|222|[BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu)|The elegant dropdown menu, written in Swift, appears underneath navigation bar to display a list of related items whe…|2.4k
+|223|[ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift)|Streams of values over time|2.4k
+|224|[PagingMenuController](https://github.com/kitasuke/PagingMenuController)|Paging view controller with customizable menu in Swift|2.4k
+|225|[Presentr](https://github.com/IcaliaLabs/Presentr)|Swift wrapper for custom ViewController presentations on iOS|2.4k
+|226|[Mos](https://github.com/Caldis/Mos)|一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 | A lightweight tool used to smooth scrolling and set scroll directi…|2.4k
+|227|[OAuthSwift](https://github.com/OAuthSwift/OAuthSwift)|Swift based OAuth library for iOS|2.4k
+|228|[BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh)|Play BreakOut while loading - A playable pull to refresh view using SpriteKit|2.4k
+|229|[MonkeyKing](https://github.com/nixzhu/MonkeyKing)|MonkeyKing helps you to post messages to Chinese Social Networks.|2.4k
+|230|[GRDB.swift](https://github.com/groue/GRDB.swift)|A toolkit for SQLite databases, with a focus on application development|2.4k
+|231|[reel-search](https://github.com/Ramotion/reel-search)|🔍 RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion - h…|2.4k
+|232|[Sync](https://github.com/3lvis/Sync)|JSON to Core Data and back. Swift Core Data Sync.|2.3k
+|233|[Fusuma](https://github.com/ytakzk/Fusuma)|Instagram-like photo browser and a camera feature with a few line of code in Swift.|2.3k
+|234|[TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)|TinyPNG client for Mac|2.3k
+|235|[GitHawk](https://github.com/GitHawkApp/GitHawk)|The best iOS app for GitHub.|2.3k
+|236|[FlagKit](https://github.com/madebybowtie/FlagKit)|Beautiful flag icons for usage in apps and on the web.|2.3k
+|237|[Toucan](https://github.com/gavinbunney/Toucan)|Fabulous Image Processing in Swift|2.3k
+|238|[EasyTipView](https://github.com/teodorpatras/EasyTipView)|Fully customisable tooltip view in Swift for iOS.|2.3k
+|239|[Swift-Radio-Pro](https://github.com/analogcode/Swift-Radio-Pro)|Professional Radio Station App - now supports Swift 5 / Xcode 10!|2.3k
+|240|[hamburger-button](https://github.com/robb/hamburger-button)|A hamburger button transition|2.3k
+|241|[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl)|A set of cool animated page controls written in Swift to replace boring UIPageControl.|2.3k
+|242|[Live](https://github.com/ltebean/Live)|Demonstrates how to build a live broadcast app(Swift 3)|2.3k
+|243|[Gifu](https://github.com/kaishin/Gifu)|High-performance animated GIF support for iOS in Swift|2.3k
+|244|[CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)|Example of Clean Architecture of iOS app using RxSwift|2.3k
+|245|[CoreStore](https://github.com/JohnEstropia/CoreStore)|Unleashing the real power of Core Data with the elegance and safety of Swift|2.3k
+|246|[Transition](https://github.com/Touchwonders/Transition)|Easy interactive interruptible custom ViewController transitions|2.2k
+|247|[WobbleView](https://github.com/inFullMobile/WobbleView)||2.2k
+|248|[Localize-Swift](https://github.com/marmelroy/Localize-Swift)|Swift friendly localization and i18n with in-app language switching|2.2k
+|249|[navigation-stack](https://github.com/Ramotion/navigation-stack)|NavigationStack is a stack-modeled UI navigation controller. Swift UI library made by @Ramotion - https://github.c…|2.2k
+|250|[SwiftWebUI](https://github.com/SwiftWebUI/SwiftWebUI)|A demo implementation of SwiftUI for the Web|2.2k
+|251|[TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition)|Animated UIButton of Loading Animation and Transition Animation. Inspired by https://dribbble.com/shots/1945593-Login…|2.2k
+|252|[MagazineLayout](https://github.com/airbnb/MagazineLayout)|A collection view layout capable of laying out views in vertically scrolling grids and lists.|2.2k
+|253|[Reusable](https://github.com/AliSoftware/Reusable)|A Swift mixin for reusing views easily and in a type-safe way (UITableViewCells, UICollectionViewCells, custom UIView…|2.2k
+|254|[YPImagePicker](https://github.com/Yummypets/YPImagePicker)|📸 Instagram-like image picker & filters for iOS|2.1k
+|255|[youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)|youtube iOS app template written in swift 3|2.1k
+|256|[ClassicKit](https://github.com/Baddaboo/ClassicKit)|💾 A collection of classic-style UI components for iOS|2.1k
+|257|[ImageViewer](https://github.com/Krisiacik/ImageViewer)|An image viewer à la Twitter|2.1k
+|258|[URLNavigator](https://github.com/devxoul/URLNavigator)|⛵️ Elegant URL Routing for Swift|2.1k
+|259|[DeckTransition](https://github.com/HarshilShah/DeckTransition)|A library to recreate the iOS Apple Music now playing transition|2.1k
+|260|[Programming-iOS-Book-Examples](https://github.com/mattneub/Programming-iOS-Book-Examples)|Downloadable code examples for my books, "iOS 12 Programming Fundamentals With Swift" (bk1) and "Programming iOS 12" …|2.1k
+|261|[TelegramSwift](https://github.com/overtake/TelegramSwift)|Source code of Telegram for macos on Swift 5.0|2.1k
+|262|[ElasticTransition](https://github.com/lkzhao/ElasticTransition)|A UIKit custom transition that simulates an elastic drag. Written in Swift.|2.1k
+|263|[VegaScroll](https://github.com/ApplikeySolutions/VegaScroll)|↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible w…|2.1k
+|264|[fluid-interfaces](https://github.com/nathangitter/fluid-interfaces)|Natural gestures and animations inspired by Apples WWDC18 talk "Designing Fluid Interfaces"|2.1k
+|265|[PMAlertController](https://github.com/pmusolino/PMAlertController)|PMAlertController is a great and customizable alert that can substitute UIAlertController|2.1k
+|266|[SwiftRichString](https://github.com/malcommac/SwiftRichString)|Elegant & painless Attributed Strings in Swift|2.1k
+|267|[SugarRecord](https://github.com/modo-studio/SugarRecord)|CoreData/Realm sweet wrapper written in Swift|2.1k
+|268|[layout](https://github.com/nicklockwood/layout)|A declarative UI framework for iOS|2.1k
+|269|[TransitionTreasury](https://github.com/DianQK/TransitionTreasury)|Easier way to push your viewController.|2.1k
+|270|[DifferenceKit](https://github.com/ra1028/DifferenceKit)|💻 A fast and flexible O(n) difference algorithm framework for Swift collection.|2.1k
+|271|[TextAttributes](https://github.com/delba/TextAttributes)|An easier way to compose attributed strings|2.1k
+|272|[FengNiao](https://github.com/onevcat/FengNiao)|A command line tool for cleaning unused resources in Xcode.|2.1k
+|273|[TodayNews](https://github.com/hrscy/TodayNews)|Swift4 - 今日头条|2.1k
+|274|[Swifter](https://github.com/mattdonnelly/Swifter)|🐦 A Twitter framework for iOS & OS X written in Swift|2k
+|275|[RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources)|UITableView and UICollectionView Data Sources for RxSwift (sections, animated updates, editing ...)|2k
+|276|[StatefulViewController](https://github.com/aschuch/StatefulViewController)|Placeholder views based on content, loading, error or empty states|2k
+|277|[Dozer](https://github.com/Mortennn/Dozer)|Hide status bar icons on macOS|2k
+|278|[DynamicColor](https://github.com/yannickl/DynamicColor)|Yet another extension to manipulate colors easily in Swift|2k
+|279|[Swifton](https://github.com/sauliusgrigaitis/Swifton)|A Ruby on Rails inspired Web Framework for Swift that runs on Linux and OS X|2k
+|280|[Unbox](https://github.com/JohnSundell/Unbox)|[Deprecated] The easy to use Swift JSON decoder|2k
+|281|[FolioReaderKit](https://github.com/FolioReader/FolioReaderKit)|📚 A Swift ePub reader and parser framework for iOS.|2k
+|282|[LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker)|Find retain cycles / memory leaks sooner.|2k
+|283|[FileKit](https://github.com/nvzqz/FileKit)|Simple and expressive file management in Swift|2k
+|284|[SwiftCharts](https://github.com/i-schuetz/SwiftCharts)|Easy to use and highly customizable charts library for iOS|2k
+|285|[OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)|✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.|2k
+|286|[Render](https://github.com/alexdrone/Render)|SwiftUI.framework precursor.|2k
+|287|[preview-transition](https://github.com/Ramotion/preview-transition)|PreviewTransition is a simple preview gallery UI controller with animated tranisitions. Swift UI library made by @…|2k
+|288|[PeekPop](https://github.com/marmelroy/PeekPop)|Peek and Pop with backwards-compatibility|2k
+|289|[Jelly](https://github.com/SebastianBoldt/Jelly)|🌊 - Jelly is a library for animated, non-interactive & interactive viewcontroller transitions and presentations with…|2k
+|290|[FillableLoaders](https://github.com/polqf/FillableLoaders)|Completely customizable progress based loaders drawn using custom CGPaths written in Swift|2k

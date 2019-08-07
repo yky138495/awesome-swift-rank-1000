@@ -13,7 +13,7 @@ import hashlib
 
 language='swift'
 stars='800'
-page_start=19
+page_start=31
 page_end=100
 l_a_start=0
 
